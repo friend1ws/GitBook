@@ -4,6 +4,7 @@
 
 * pileup formatの説明？
 * 変異検出の原理
+  * 重要概念の説明（sequence depth, 変異リード数、variant allele frequencyなど）
   * 縦に見て塩基数を数えて検出するということ
   * germlineではないということ、シークエンスエラーではないことの２点を証明する必要があること
   * Fisher検定に基づく方法
